@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="15df7455-d09e-4c88-860b-2b4750f4fc0e" 
+        solutionId="15df7455-d09e-4c88-860b-2b4750f4fc0e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="DemoApiRestSharePointOnline"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="0795fcda-ce01-4368-8ce2-75b792a997d3" />
+  </features>
+</package>
